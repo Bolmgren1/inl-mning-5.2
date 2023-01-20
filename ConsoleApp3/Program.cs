@@ -19,7 +19,7 @@ namespace Program
 
             for (int i = 0; i < antal; i++)
             {
-                Console.Write($"Tal {i + 1}: {heltal[i]} \n");
+                Console.WriteLine($"Tal {i + 1}: {heltal[i]}");
             }
 
         }
